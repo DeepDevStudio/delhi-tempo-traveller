@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /update_alt.py
+
+Sitemap: https://www.delhitempotravelleronrent.com/sitemap.xml
